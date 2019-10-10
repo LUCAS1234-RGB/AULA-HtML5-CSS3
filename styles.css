@@ -5,7 +5,8 @@ header{
     margin-top: 70;
 }
 
-
+h3 {color: rgb(255, 196, 0);
+font-family: fantasy;}
 
 
 h1{ color: rgb(255, 196, 0);
@@ -15,7 +16,15 @@ h1{ color: rgb(255, 196, 0);
 } 
 h2{color: rgb(255, 196, 0);
     font-family: fantasy;
+
+
+
 }
 image{
-    margin-bottom: 20;
+   margin-bottom: 20;
+
+
+  
+
+
 }
